@@ -1,0 +1,6 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+scorer_results/
+"@ | Set-Content -Encoding ascii .gitignore
